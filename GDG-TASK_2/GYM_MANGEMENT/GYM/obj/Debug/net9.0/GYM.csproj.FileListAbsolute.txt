@@ -1,0 +1,15 @@
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\bin\Debug\net9.0\GYM.exe
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\bin\Debug\net9.0\GYM.deps.json
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\bin\Debug\net9.0\GYM.runtimeconfig.json
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\bin\Debug\net9.0\GYM.dll
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\bin\Debug\net9.0\GYM.pdb
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\obj\Debug\net9.0\GYM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\obj\Debug\net9.0\GYM.AssemblyInfoInputs.cache
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\obj\Debug\net9.0\GYM.AssemblyInfo.cs
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\obj\Debug\net9.0\GYM.csproj.CoreCompileInputs.cache
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\obj\Debug\net9.0\GYM.sourcelink.json
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\obj\Debug\net9.0\GYM.dll
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\obj\Debug\net9.0\refint\GYM.dll
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\obj\Debug\net9.0\GYM.pdb
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\obj\Debug\net9.0\GYM.genruntimeconfig.cache
+C:\Users\omare\OneDrive\Desktop\GDG\GYM\obj\Debug\net9.0\ref\GYM.dll
