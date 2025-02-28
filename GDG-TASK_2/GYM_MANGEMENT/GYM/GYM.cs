@@ -5,6 +5,12 @@ public class GYM : IGymManagement
 
     private List<Member> Members = new List<Member>();
     private int MemberCounter = 0;
+    public GYM(){
+        Member omar = new RegularMember("Omar Shoulkamy" , 19 );
+        Member wessam = new PremiumMember("Ahmad Wessam" , 19 );
+        Members.Add(omar) ; 
+        Members.Add(wessam) ; 
+    }
     public void AddMember(int choice, string name, int age)
     {
         Member newMember;
